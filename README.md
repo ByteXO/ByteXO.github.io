@@ -1,5 +1,5 @@
 ## Welcome to the Byte X Website
-
+![Capture](https://user-images.githubusercontent.com/82158378/174125314-6ed8ac8b-8c76-469e-853d-25e01ade82fe.PNG)
 ### About us
 
 We are a company that mainly specializes in making discord bots but we will expand in to other things as well
