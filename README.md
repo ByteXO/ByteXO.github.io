@@ -13,6 +13,8 @@ If you wanna get invloved in our projects you can:
 
 ### Wanna join the team ?
 
+- You c
+
 ```markdown
 Syntax highlighted code block
 
