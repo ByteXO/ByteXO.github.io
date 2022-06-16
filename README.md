@@ -8,6 +8,10 @@ We are a company that mainly specializes in making discord bots but we will expa
 
 If you wanna get invloved in our projects you can:
 - Give us suggestions on our products in the discussions tab in github
+- Contribute/Issue in our github repos
+- 
+
+### Wanna join the team ?
 
 ```markdown
 Syntax highlighted code block
