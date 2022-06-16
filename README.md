@@ -1,8 +1,8 @@
 ## Welcome to the Byte X Website
 
-You can use the [editor on GitHub](https://github.com/ByteXO/ByteXO.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### About us
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We are a company that mainly specializes in making discord bots but we will expand in to other things as well
 
 ### Markdown
 
