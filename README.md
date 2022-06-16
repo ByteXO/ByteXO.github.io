@@ -4,9 +4,10 @@
 
 We are a company that mainly specializes in making discord bots but we will expand in to other things as well
 
-### Markdown
+### Get Involved
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+If you wanna get invloved in our projects you can:
+- Give us suggestions on our products in the discussions tab in github
 
 ```markdown
 Syntax highlighted code block
